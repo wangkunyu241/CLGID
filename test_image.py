@@ -40,7 +40,7 @@ model_restoration.cuda()
 criterion.cuda()
 model_restoration.eval()
 
-test_dataset = get_test_data(opt.data_path)
+test_dataset = get_validation_data(opt.data_path)
 test_loader  = DataLoader(dataset=test_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)
 
 with torch.no_grad():
