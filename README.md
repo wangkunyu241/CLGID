@@ -6,14 +6,11 @@ We have released the code for our paper "Towards Better De-raining Generalizatio
 <img width="100%" src="imgs/method.png"/>
 </div>
 
+<br><br>
+
 <div align=center>
 <img width="100%" src="imgs/result.png"/>
 </div>
-
-### Abstract
-
-Current image de-raining methods mainly focus on learning from a fixed set of de-raining data. However, when facing complex and diverse real-world rainy scenarios, they often yield sub-optimal results as the learned specific de-raining mapping rule can only partially cover real-world rain distribution. To address this issue, we propose a novel generalized image de-raining framework that empowers networks to accumulate de-raining knowledge from increasingly abundant de-raining datasets, instead of solely relying on a static dataset, thereby constantly enhancing their generalization ability. Our inspiration originates from the human brain's complementary learning system, which enables humans to constantly memorize a stream of perceived events and acquire generalization across memorized event. Building upon this concept, we attempt to borrow the mechanism of the complementary learning system into our framework. Specifically, we first utilize GANs to learn and store the rainy characteristics of newly arriving data, imitating the learning and memorizing function of hippocampus. Then, we train the de-raining network using both the current data and GANs-generated data to imitates the hippocampus-to-neocortex replay and the interleaved learning. In addition, we adopt the knowledge distillation with replayed data to imitate the consistency between neocortical activity patterns activated by hippocampal replayed events and existing neocortical knowledge. By equipping our framework, the de-raining network is able to accumulate de-raining knowledge from a stream of datasets, thus constantly improving the generalization on unseen real-world rainy images.
-Experiments on three representative de-raining networks demonstrate that our framework enables the networks to effectively accumulate knowledge on six datasets and achieve superior generalization results on unseen real-world datasets compared to the SOTA methods. 
 
 ### Datasets
 
