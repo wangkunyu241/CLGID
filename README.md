@@ -24,7 +24,9 @@ Please refer to the requirements.txt file in the directory, where we have listed
 
 ## Model Weight
 
-[[Download link] https://pan.baidu.com/s/171LJz9gHNhrAZCzd3ZoDvg (pwd: 5jno) ]
+[[Download link for trained weight] https://pan.baidu.com/s/1YcOoZ-EkeCTKXYvXEOcBmA (pwd: m4fh) ]
+
+[[Download link for weight of VRGNet] https://pan.baidu.com/s/1dg04evriT8-ourKciAr4Sw (pwd: 6zkm) ]
 
 ## Structure
 
