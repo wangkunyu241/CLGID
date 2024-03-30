@@ -2,6 +2,8 @@
 
 We have released the code for our paper "Towards Better De-raining Generalization via Rainy Characteristics Memorization and Replay". Our code uses MPRNet as the exemplified de-raining network for illustrating our method.
 
+<br><br>
+
 <div align=center>
 <img width="100%" src="imgs/method.png"/>
 </div>
