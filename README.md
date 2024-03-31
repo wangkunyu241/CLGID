@@ -16,7 +16,7 @@ We have released the code for our paper "Towards Better De-raining Generalizatio
 
 ### Datasets
 
-[[Download link] https://pan.baidu.com/s/1oqfCJr3T_l3wFM9wpmHW7g (pwd: shdl) ]
+[[Download link] https://pan.baidu.com/s/1RoBWfAAfR9HIOuIvmnOWAw (pwd: la47) ]
 
 ## Install
 
