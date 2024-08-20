@@ -1,6 +1,6 @@
 # Towards Better De-raining Generalization via Rainy Characteristics Memorization and Replay
 
-We have released the code for our paper "Towards Better De-raining Generalization via Rainy Characteristics Memorization and Replay", which is submitted to TIP. Our code uses MPRNet as the exemplified de-raining network for illustrating our method.
+We have released the code for our paper "Towards Better De-raining Generalization via Rainy Characteristics Memorization and Replay", which is submitted to TNNLS. Our code uses MPRNet as the exemplified de-raining network for illustrating our method.
 
 <br>
 
